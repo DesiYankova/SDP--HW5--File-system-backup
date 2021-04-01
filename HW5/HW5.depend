@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1515951820 source:c:\users\desi\desktop\hw5\main.cpp
+	<iostream>
+	"dirent.h"
+	<string.h>
+	<string>
+	<vector>
+	<direct.h>
+	<fstream>
+	"Vector.h"
+	"md5.h"
+
+1515692168 source:c:\users\desi\desktop\hw5\md5.cpp
+	"md5.h"
+	<cstdio>
+
+1515692168 c:\users\desi\desktop\hw5\md5.h
+	<cstring>
+	<iostream>
+
+1515692571 source:c:\users\desi\desktop\hw5\string.cpp
+	"String.h"
+	<cstring>
+
+1515692571 c:\users\desi\desktop\hw5\string.h
+	<iostream>
+
+1515780846 c:\users\desi\desktop\hw5\dirent.h
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1515843554 c:\users\desi\desktop\hw5\vector.h
+	<iostream>
+
+1515781128 c:\users\desi\desktop\hw5\dirtree.h
+	"String.h"
+	"dirent.h"
+	<iostream>
+	"DirTree.hpp"
+
+1515777621 c:\users\desi\desktop\hw5\dirtree.hpp
+
+1515951820 source:d:\sdp\hw5\main.cpp
+	<iostream>
+	"dirent.h"
+	<string.h>
+	<string>
+	<vector>
+	<direct.h>
+	<fstream>
+	"Vector.h"
+	"md5.h"
+
+1515780846 d:\sdp\hw5\dirent.h
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1515843554 d:\sdp\hw5\vector.h
+	<iostream>
+
+1515692168 d:\sdp\hw5\md5.h
+	<cstring>
+	<iostream>
+
+1515692168 source:d:\sdp\hw5\md5.cpp
+	"md5.h"
+	<cstdio>
+
